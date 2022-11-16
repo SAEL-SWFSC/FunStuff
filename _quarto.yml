@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "SWFSC-SAEL Fun Stuff" 
+  site-url: "https://sael-swfsc.github.io/FunStuff/" 
+  repo-url: "https://github.com/SAEL-SWFSC/FunStuff"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -32,19 +32,21 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
+        text: Tutorials
+      - href: content/tutorials.qmd
+        text: Code Hacks
+      - href: content/code-hacks.qmd
+        text: Statistics
+      - href: content/stats.qmd
+        text: Visualization
+      - href: content/visuals.Rmd
+        text: Open Science Communities
+      - href: content/communities.qmd
         text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+      - href: content/collaboration.qmd
+        text: Collaboration
+      - href: content/off-topic.qmd
+        text: Off Topic
 
 format:
   html:

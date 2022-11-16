@@ -1,0 +1,45 @@
+---
+title: Code Hacks
+---
+
+# Code Hacks
+
+Add New Fun Things to the TOP of this list!!
+
+## *How to Cite Code*
+
+-   [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/),  by Steffi LaZerte for rOpenSci
+
+-   [Make Your R Package Easier to Cite](https://ropensci.org/blog/2021/02/16/package-citation/), by Maëlle Salmon, Scott Chamberlain, Karthik Ram for rOpenSci
+
+## ***here***
+
+https://here.r-lib.org/
+
+[Why should I use the package 'here' when I'm already using projects](https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/) (blog)
+
+![](images/here.png){width="249"}
+
+## *R Interface with Python*
+
+[Reticulate](https://rstudio.github.io/reticulate/)
+https://rstudio.github.io/reticulate/
+
+## *Patchwork: Combine separate ggplots*
+
+Thomas Lin Pederson: https://patchwork.data-imaginist.com/
+
+![](images/patchwork.PNG){width="406"}
+
+## *cowplot*
+
+publication-ready themes for ggplot2
+
+[cran.r-project.org/web/packages/cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
+
+![](images/cowplot.PNG)
+
+\
+
+
+

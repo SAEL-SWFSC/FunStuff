@@ -1,0 +1,11 @@
+---
+title: Statistics
+---
+
+# Statistics
+
+Add New Fun Things to the TOP of this list!!
+
+## *TinyModels* 
+
+Similar to tidyverse, it can be used to install and load tidyverse packages related to modeling and analysis. https://www.tidyverse.org/blog/2018/08/tidymodels-0-0-1/

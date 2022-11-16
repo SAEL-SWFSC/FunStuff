@@ -1,0 +1,31 @@
+---
+title: Tutorials
+---
+
+# Tutorials
+
+Add New Fun Things to the TOP of this list!!
+
+## *How to Name Things*
+
+https://speakerdeck.com/jennybc/how-to-name-files
+
+## *What they Forgot to Teach you about R*
+
+https://rstats.wtf/
+
+## *Big Book of R*
+
+https://www.bigbookofr.com/index.html
+
+## *PANGEO Showcase*
+
+Community platform for Big Data geoscience
+
+https://pangeo.io/index.html
+
+## *Twitter for R Users*
+
+https://www.t4rstats.com/
+
+![](images/welcome_to_rstats_twitter_social.png){width="274"}

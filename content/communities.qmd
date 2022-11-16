@@ -1,0 +1,21 @@
+---
+title: Open Science Communities
+---
+
+# Open Science Communities
+
+Add New Fun Things to the TOP of this list!!
+
+## *R Open Sci*
+
+[https://ropensci.org](https://ropensci.org/) - quick explore, search packages for \"fish\"
+
+![](images/RopenSci.PNG){width="410"}
+
+## *R-Ladies Global*
+
+https://rladies.org/
+
+![](images/RLadies.PNG)
+
+## 

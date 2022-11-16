@@ -1,0 +1,20 @@
+---
+title: Visualization
+---
+
+## Visualization
+
+Add New Fun Things to the TOP of this list!!
+
+## *brolgar*
+
+To help browse timeseries data
+
+http://brolgar.njtierney.com/
+Learn with Nick\'s [blog post tutorial](https://www.njtierney.com/post/2019/08/13/introducing-brolgar/) and [rstudio::conf(2020) talk](https://njt-rstudio20.netlify.com/)
+
+![](images/brolgar.PNG)
+
+\
+
+

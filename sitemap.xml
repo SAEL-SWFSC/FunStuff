@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/index.html</loc>
-    <lastmod>2022-11-15T23:46:11.588Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/index.html</loc>
+    <lastmod>2022-11-16T01:56:26.234Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/customizing.html</loc>
-    <lastmod>2022-11-15T23:46:12.989Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/communities.html</loc>
+    <lastmod>2022-11-16T01:56:28.378Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/acknowledgements.html</loc>
-    <lastmod>2022-11-15T23:46:13.349Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/code-hacks.html</loc>
+    <lastmod>2022-11-16T01:56:28.750Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/code.html</loc>
-    <lastmod>2022-11-15T23:46:14.633Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/tutorials.html</loc>
+    <lastmod>2022-11-16T01:56:29.130Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/rmarkdown.html</loc>
-    <lastmod>2022-11-15T23:46:16.209Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/visuals.html</loc>
+    <lastmod>2022-11-16T01:56:29.478Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/publishing.html</loc>
-    <lastmod>2022-11-15T23:46:16.597Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/off-topic.html</loc>
+    <lastmod>2022-11-16T01:56:29.818Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/add-content.html</loc>
-    <lastmod>2022-11-15T23:46:16.989Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/stats.html</loc>
+    <lastmod>2022-11-16T01:56:30.190Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/rendering.html</loc>
-    <lastmod>2022-11-15T23:46:17.353Z</lastmod>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/collaboration.html</loc>
+    <lastmod>2022-11-16T01:56:30.534Z</lastmod>
   </url>
 </urlset>

@@ -41,6 +41,8 @@ website:
         text: Statistics
       - href: content/visuals.qmd
         text: Visualization
+      - href: content/writing.qmd
+        text: Writing
       - href: content/communities.qmd
         text: Open Science Communities
       - href: content/code-in-files.qmd

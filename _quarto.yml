@@ -32,16 +32,18 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Tutorials
+        text: Home
       - href: content/tutorials.qmd
-        text: Code Hacks
+        text: Tutorials
       - href: content/code-hacks.qmd
-        text: Statistics
+        text: Code Hacks
       - href: content/stats.qmd
+        text: Statistics
+      - href: content/visuals.qmd
         text: Visualization
-      - href: content/visuals.Rmd
-        text: Open Science Communities
       - href: content/communities.qmd
+        text: Open Science Communities
+      - href: content/code-in-files.qmd
         text: Code in your files
       - href: content/collaboration.qmd
         text: Collaboration

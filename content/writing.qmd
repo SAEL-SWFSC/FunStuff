@@ -17,7 +17,7 @@ Add New Fun Things to the TOP of this list!!
         -   No, however Quarto can help with this! It can be integrated with citations (Zotero). More information on Quarto here: 
             -   <https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/>
 
-    -   here\'s is an article that describes how to migrate an Endnote library to Zotero. <https://www.zotero.org/support/kb/endnote_import>
+    -   here's is an article that describes how to migrate an Endnote library to Zotero. <https://www.zotero.org/support/kb/endnote_import>
 
     -   PSA: New **Citation Style Library (.csl)** alert!
 
@@ -40,11 +40,10 @@ Add New Fun Things to the TOP of this list!!
 
         -   Go into RStudio Options \> R Markdown \> choose Citations tab and select which Zotero library you want to link
 
-```{=html}
 <!-- -->
-```
+
 -   These are from a breakout room Shannon was in, I am not sure exactly what they talked about but I know it was related to using Zotero (maybe reach out to Shannon if you have questions about the links or anything!) 
-    -   EndNote doesn\'t allow for external collaboration outside of NOAA
+    -   EndNote doesn't allow for external collaboration outside of NOAA
 
     -   Download .bib file from EndNote to add it to Zotero/Mendeley (to allow for external collaboration)
 

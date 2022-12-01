@@ -1,5 +1,5 @@
 ---
-name: Fun Stuff Submission
+name: issue_template
 description: Share Fun Stuff
 title: "Fun Stuff Submission"
 labels: "Add FunStuff"

@@ -44,5 +44,5 @@ body:
       required: false
   - type: markdown
     attributes:
-    value: "Feel free to attach an image!"
+    value: "Add an image! Pictures are Pretty"
  ---

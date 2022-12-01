@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fun STuff",
-    "section": "",
-    "text": "Share FUN STUFF!\nAdd your fun stuff to the top of the relevant *.qmd file Adding pictures is nice\nKeep is SHORT & SWEET"
-  },
-  {
-    "objectID": "content/communities.html",
-    "href": "content/communities.html",
-    "title": "Open Science Communities",
-    "section": "",
-    "text": "Add New Fun Things to the TOP of this list!!\n\n\nhttps://ropensci.org - quick explore, search packages for \"fish\"\n\n\n\n\nhttps://rladies.org/"
-  },
-  {
-    "objectID": "content/code-hacks.html",
-    "href": "content/code-hacks.html",
-    "title": "Code Hacks",
-    "section": "",
-    "text": "Add New Fun Things to the TOP of this list!!\n\n\n\nHow to Cite R and R Packages,  by Steffi LaZerte for rOpenSci\nMake Your R Package Easier to Cite, by Maëlle Salmon, Scott Chamberlain, Karthik Ram for rOpenSci\n\n\n\n\nhttps://here.r-lib.org/\nWhy should I use the package ‘here’ when I’m already using projects (blog)\n\n\n\n\nReticulate https://rstudio.github.io/reticulate/\n\n\n\nThomas Lin Pederson: https://patchwork.data-imaginist.com/\n\n\n\n\npublication-ready themes for ggplot2\ncran.r-project.org/web/packages/cowplot"
-  },
-  {
-    "objectID": "content/tutorials.html",
-    "href": "content/tutorials.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "Add New Fun Things to the TOP of this list!!\n\n\nhttps://speakerdeck.com/jennybc/how-to-name-files\n\n\n\nhttps://rstats.wtf/\n\n\n\nhttps://www.bigbookofr.com/index.html\n\n\n\nCommunity platform for Big Data geoscience\nhttps://pangeo.io/index.html\n\n\n\nhttps://www.t4rstats.com/"
-  },
-  {
-    "objectID": "content/visuals.html",
-    "href": "content/visuals.html",
-    "title": "Visualization",
-    "section": "",
-    "text": "Add New Fun Things to the TOP of this list!!"
-  },
-  {
-    "objectID": "content/visuals.html#brolgar",
-    "href": "content/visuals.html#brolgar",
-    "title": "Visualization",
-    "section": "brolgar",
-    "text": "brolgar\nTo help browse timeseries data\nhttp://brolgar.njtierney.com/ Learn with Nick's blog post tutorial and rstudio::conf(2020) talk"
-  },
-  {
     "objectID": "content/off-topic.html",
     "href": "content/off-topic.html",
     "title": "Off Topic",
@@ -63,10 +21,52 @@
     "text": "Add New Fun Things to the TOP of this list!!\n\n\nReal-time collaboration on documentation in markdown. https://hackmd.io/"
   },
   {
+    "objectID": "content/visuals.html",
+    "href": "content/visuals.html",
+    "title": "Visualization",
+    "section": "",
+    "text": "Add New Fun Things to the TOP of this list!!"
+  },
+  {
+    "objectID": "content/visuals.html#brolgar",
+    "href": "content/visuals.html#brolgar",
+    "title": "Visualization",
+    "section": "brolgar",
+    "text": "brolgar\nTo help browse timeseries data\nhttp://brolgar.njtierney.com/ Learn with Nick's blog post tutorial and rstudio::conf(2020) talk"
+  },
+  {
     "objectID": "content/writing.html",
     "href": "content/writing.html",
     "title": "Writing",
     "section": "",
     "text": "Add New Fun Things to the TOP of this list!!\n\n\n\nQuarto Website info on using Zotero for citations https://quarto.org/docs/visual-editor/technical.html#citations \nQuick Quarto tutorial for inserting citations using Zotero https://quarto.org/docs/get-started/authoring/rstudio.html#citations \nAnother quick tutorial from Quarto Tip of the Day https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/posts/24-citations/ \nQuestions and tips from Openscapes Sessions\n\nCan R markdown be linked to endnote for inserting citations into a document? \n\nNo, however Quarto can help with this! It can be integrated with citations (Zotero). More information on Quarto here: \n\nhttps://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/\n\n\nhere’s is an article that describes how to migrate an Endnote library to Zotero. https://www.zotero.org/support/kb/endnote_import\nPSA: New Citation Style Library (.csl) alert!\n\nAny journal!: https://github.com/citation-style-language/styles \nNew NOAA citation style: https://www.zotero.org/styles?q=i%3aaps-no-ampersand\nI (Em) recently spoke with AFSC comms about how to integrate the NOAA Fisheries AFSC citation style in rmarkdown/quarto/etc and (after also reaching out the the NOAA Central Library) all agreed that we can instead use the APA 7th Citation Style Language. Use the link above directly in R, Zotero, EndNote, etc! I believe this is a change that will be slowly implemented across NOAA (not just NOAA fisheries or the AFSC science center). \nYou are able to add a csl to your quarto/rmd by:\nIn the yml of a quarto/rmd document:\n\n\n\nIn a universal quarto yml: \n\n\n\nCitations (.bib/Zotero)\n\nhttps://www.doi2bib.org/ put in a doi, get out a .bib!\nThis is the guide Em usually refers to for exporting .bib (the .bib file can be used in Quarto to add citations) from endnote: https://www.reed.edu/cis/help/LaTeX/EndNote.html \nTanya: If you do have a Zotero library, how would you link that? Is that the only difference between quarto and rmd?\n\nKevin S: Tanya, I have a Zotero library, never used Quarto, but when I tried a Quarto demo and typed @ it somehow found my Zotero library, I think. Just try it.\nGo into RStudio Options > R Markdown > choose Citations tab and select which Zotero library you want to link\n\n\n\n\n\nThese are from a breakout room Shannon was in, I am not sure exactly what they talked about but I know it was related to using Zotero (maybe reach out to Shannon if you have questions about the links or anything!) \n\nEndNote doesn’t allow for external collaboration outside of NOAA\nDownload .bib file from EndNote to add it to Zotero/Mendeley (to allow for external collaboration)\nhttps://www.doi2bib.org/ \nhttps://github.com/EmilyMarkowitz-NOAA/gap_bs_data_report/blob/main/cite/bibliography.bib \nhttps://www.zotero.org/styles?q=id%253Aapa-no-ampersand \nhttps://github.com/citation-style-language/styles"
+  },
+  {
+    "objectID": "content/code-hacks.html",
+    "href": "content/code-hacks.html",
+    "title": "Code Hacks",
+    "section": "",
+    "text": "Add New Fun Things to the TOP of this list!!\n\n\n\nHow to Cite R and R Packages,  by Steffi LaZerte for rOpenSci\nMake Your R Package Easier to Cite, by Maëlle Salmon, Scott Chamberlain, Karthik Ram for rOpenSci\n\n\n\n\nhttps://here.r-lib.org/\nWhy should I use the package ‘here’ when I’m already using projects (blog)\n\n\n\n\nReticulate https://rstudio.github.io/reticulate/\n\n\n\nThomas Lin Pederson: https://patchwork.data-imaginist.com/\n\n\n\n\npublication-ready themes for ggplot2\ncran.r-project.org/web/packages/cowplot"
+  },
+  {
+    "objectID": "content/tutorials.html",
+    "href": "content/tutorials.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Add New Fun Things to the TOP of this list!!\n\n\nhttps://speakerdeck.com/jennybc/how-to-name-files\n\n\n\nhttps://rstats.wtf/\n\n\n\nhttps://www.bigbookofr.com/index.html\n\n\n\nCommunity platform for Big Data geoscience\nhttps://pangeo.io/index.html\n\n\n\nhttps://www.t4rstats.com/"
+  },
+  {
+    "objectID": "content/communities.html",
+    "href": "content/communities.html",
+    "title": "Open Science Communities",
+    "section": "",
+    "text": "Add New Fun Things to the TOP of this list!!\n\n\nhttps://ropensci.org - quick explore, search packages for \"fish\"\n\n\n\n\nhttps://rladies.org/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fun STuff",
+    "section": "",
+    "text": "Share FUN STUFF!\nAdd your fun stuff to the top of the relevant *.qmd file Adding pictures is nice\nKeep is SHORT & SWEET"
   }
 ]

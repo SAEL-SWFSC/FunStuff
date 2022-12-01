@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sael-swfsc.github.io/FunStuff/index.html</loc>
-    <lastmod>2022-11-23T22:24:02.053Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/FunStuff/content/communities.html</loc>
-    <lastmod>2022-11-23T22:24:04.773Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/FunStuff/content/code-hacks.html</loc>
-    <lastmod>2022-11-23T22:24:05.341Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/FunStuff/content/tutorials.html</loc>
-    <lastmod>2022-11-23T22:24:05.745Z</lastmod>
-  </url>
-  <url>
     <loc>https://sael-swfsc.github.io/FunStuff/content/code-in-files.html</loc>
-    <lastmod>2022-11-23T22:24:06.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sael-swfsc.github.io/FunStuff/content/visuals.html</loc>
-    <lastmod>2022-11-23T22:24:06.465Z</lastmod>
+    <lastmod>2022-12-01T00:29:49.601Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/FunStuff/content/off-topic.html</loc>
-    <lastmod>2022-11-23T22:24:06.829Z</lastmod>
+    <lastmod>2022-12-01T00:29:54.237Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/FunStuff/content/stats.html</loc>
-    <lastmod>2022-11-23T22:24:07.221Z</lastmod>
+    <lastmod>2022-12-01T00:29:54.697Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/FunStuff/content/collaboration.html</loc>
-    <lastmod>2022-11-23T22:24:07.589Z</lastmod>
+    <lastmod>2022-12-01T00:29:55.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/visuals.html</loc>
+    <lastmod>2022-12-01T00:29:55.549Z</lastmod>
   </url>
   <url>
     <loc>https://sael-swfsc.github.io/FunStuff/content/writing.html</loc>
-    <lastmod>2022-11-23T22:24:08.025Z</lastmod>
+    <lastmod>2022-12-01T00:29:56.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/code-hacks.html</loc>
+    <lastmod>2022-12-01T00:29:56.453Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/tutorials.html</loc>
+    <lastmod>2022-12-01T00:29:56.869Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/FunStuff/content/communities.html</loc>
+    <lastmod>2022-12-01T00:29:57.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sael-swfsc.github.io/FunStuff/index.html</loc>
+    <lastmod>2022-12-01T00:29:57.693Z</lastmod>
   </url>
 </urlset>

@@ -6,6 +6,16 @@ title: Code Hacks
 
 Add New Fun Things to the TOP of this list!!
 
+## Posit RStudio Cheatsheets
+
+[List of general cheatsheets](https://posit.co/resources/cheatsheets/) to make it easy to use some popular/favorite packages
+
+## Table Generator
+
+[This website](https://tablesgenerator.com/markdown_tables) helps you generate tables in different coding languages including LaTeX, HTML, Text, Markdown, and MediaWiki. For example, you can copy and paste table content from a word doc and it will generate the code result that you can copy into your R markdown or Quarto document
+
+![](images/paste-7C5723AE.png){width="391"}
+
 ## *How to Cite Code*
 
 -   [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/),  by Steffi LaZerte for rOpenSci
@@ -37,13 +47,3 @@ publication-ready themes for ggplot2
 [cran.r-project.org/web/packages/cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
 
 ![](images/cowplot.PNG)
-
-##  Posit RStudio Cheatsheets
-
-[List of general cheatsheets](https://posit.co/resources/cheatsheets/) to make it easy to use some popular/favorite packages
-
-## Table Generator
-
-[This website](https://tablesgenerator.com/markdown_tables) helps you generate tables in different coding languages including LaTeX, HTML, Text, Markdown, and MediaWiki. For example, you can copy and paste table content from a word doc and it will generate the code result that you can copy into your R markdown or Quarto document
-
-![](images/paste-7C5723AE.png){width="391"}

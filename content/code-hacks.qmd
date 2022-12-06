@@ -12,7 +12,7 @@ Add New Fun Things to the TOP of this list!!
 
 -   [Make Your R Package Easier to Cite](https://ropensci.org/blog/2021/02/16/package-citation/), by Maëlle Salmon, Scott Chamberlain, Karthik Ram for rOpenSci
 
-## ***here***
+## *here()*
 
 https://here.r-lib.org/
 
@@ -22,8 +22,7 @@ https://here.r-lib.org/
 
 ## *R Interface with Python*
 
-[Reticulate](https://rstudio.github.io/reticulate/)
-https://rstudio.github.io/reticulate/
+[Reticulate](https://rstudio.github.io/reticulate/) https://rstudio.github.io/reticulate/
 
 ## *Patchwork: Combine separate ggplots*
 
@@ -39,7 +38,12 @@ publication-ready themes for ggplot2
 
 ![](images/cowplot.PNG)
 
-\
+##  Posit RStudio Cheatsheets
 
+[List of general cheatsheets](https://posit.co/resources/cheatsheets/) to make it easy to use some popular/favorite packages
 
+## Table Generator
 
+[This website](https://tablesgenerator.com/markdown_tables) helps you generate tables in different coding languages including LaTeX, HTML, Text, Markdown, and MediaWiki. For example, you can copy and paste table content from a word doc and it will generate the code result that you can copy into your R markdown or Quarto document
+
+![](images/paste-7C5723AE.png){width="391"}
